@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_Coordinator</string>
+    <string name="snackbar">Snackbar Appears</string>
+    <string name="home">HOME</string>
+    <string name="lifestyle_media">Lifestyle Media</string>
+    <string name="rewards">No rewards yet!</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="hotel_info">Hotel Info</string>
+</resources>

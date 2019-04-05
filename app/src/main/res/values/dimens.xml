@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="float_gravity">16dp</dimen>
+    <dimen name="text_size">26sp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="image_height">80dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="image1_height">256dp</dimen>
+</resources>
